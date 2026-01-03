@@ -109,9 +109,6 @@ See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 🙋‍♂️ Author
-
-**Umair Ahmed**
 
 
 ---
